@@ -18,8 +18,7 @@ double refine(double r)
 adds the value of r to the current probability of life
 probability should never be less than 0 or exceed 100.
 returns the updated probability of life
-You must overload the following operators to compare planets by probability of life
->, <, >=, <=, ==, !=
+You must overload the following operators to compare planets by probability of life >, <, >=, <=, ==, !=
 
 Parser
 Parser(std::string filename)
