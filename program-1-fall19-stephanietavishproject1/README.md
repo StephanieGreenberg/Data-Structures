@@ -1,3 +1,5 @@
+# Program 1 - Linked List and Vector Implementation
+
 For the first program you and partner are going to build both a dynamic array (vector) and a linked list. Each data structure will be tested to ensure the validity of its operations. Once that is complete and you know your data structures are working, we are going to use them as internal data structures for our Star class. Both versions of the Star class will be evaluated to see which provides better performance.
 
 You will reuse your Planet class from lab 2 with minimal changes.
